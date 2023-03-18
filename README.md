@@ -1,6 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/96352529-af69d280-1078-11eb-9e87-8a73f48af246.png">
-  <br />
+ <h2>CypherBird</h2>
   Open Source Security Guide
 </h1>
 
